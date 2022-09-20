@@ -2,8 +2,8 @@
 
 ### How to run?
 
-> ! pip install -r requirements.txt
+> pip install -r requirements.txt
 
-> ! python main.py
+> python main.py
 
 Check "steel_news.xlsx" for news.
